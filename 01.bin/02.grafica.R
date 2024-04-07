@@ -52,3 +52,4 @@ ggsave(filename = "02.results/barras.png",
 
  # TO-DOs
  # clanda: agregrar el numero de Drs y Dras en el pay
+ 
